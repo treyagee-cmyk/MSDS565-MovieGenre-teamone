@@ -1,0 +1,10 @@
+# Provided dataset and every CSV the notebooks export (pseudo_labeled.csv)
+data/
+*.csv
+
+# Caches / scratch
+.ipynb_checkpoints/
+__pycache__/
+*.npz
+*.npy
+.DS_Store
